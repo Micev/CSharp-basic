@@ -1,0 +1,5 @@
+D:\Documents\Softuni\PrimitiveDataTypesAndVariables\03.VarialbleInHexadesimalFormat\bin\Debug\03.VarialbleInHexadesimalFormat.exe.config
+D:\Documents\Softuni\PrimitiveDataTypesAndVariables\03.VarialbleInHexadesimalFormat\bin\Debug\03.VarialbleInHexadesimalFormat.exe
+D:\Documents\Softuni\PrimitiveDataTypesAndVariables\03.VarialbleInHexadesimalFormat\bin\Debug\03.VarialbleInHexadesimalFormat.pdb
+D:\Documents\Softuni\PrimitiveDataTypesAndVariables\03.VarialbleInHexadesimalFormat\obj\Debug\03.VarialbleInHexadesimalFormat.exe
+D:\Documents\Softuni\PrimitiveDataTypesAndVariables\03.VarialbleInHexadesimalFormat\obj\Debug\03.VarialbleInHexadesimalFormat.pdb

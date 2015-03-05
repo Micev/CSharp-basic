@@ -1,0 +1,9 @@
+D:\Documents\Softuni\PrimitiveDataTypesAndVariables\Declare Valiables\bin\Debug\Declare Valiables.exe.config
+D:\Documents\Softuni\PrimitiveDataTypesAndVariables\Declare Valiables\obj\Debug\Declare Valiables.exe
+D:\Documents\Softuni\PrimitiveDataTypesAndVariables\Declare Valiables\obj\Debug\Declare Valiables.pdb
+D:\Documents\Softuni\PrimitiveDataTypesAndVariables\01.Declare Valiables\bin\Debug\Declare Valiables.exe.config
+D:\Documents\Softuni\PrimitiveDataTypesAndVariables\01.Declare Valiables\obj\Debug\Declare Valiables.exe
+D:\Documents\Softuni\PrimitiveDataTypesAndVariables\01.Declare Valiables\obj\Debug\Declare Valiables.pdb
+D:\Documents\Softuni\PrimitiveDataTypesAndVariables\01.Declare Valiables\bin\Debug\Declare Valiables.exe
+D:\Documents\Softuni\PrimitiveDataTypesAndVariables\01.Declare Valiables\bin\Debug\Declare Valiables.pdb
+D:\Documents\Softuni\PrimitiveDataTypesAndVariables\01.Declare Valiables\obj\Debug\01.Declare Valiables.csprojResolveAssemblyReference.cache

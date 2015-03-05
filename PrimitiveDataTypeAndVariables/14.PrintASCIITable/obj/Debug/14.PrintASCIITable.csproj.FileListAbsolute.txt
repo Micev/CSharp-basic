@@ -1,0 +1,5 @@
+D:\Documents\Softuni\PrimitiveDataTypesAndVariables\14.PrintASCIITable\bin\Debug\14.PrintASCIITable.exe.config
+D:\Documents\Softuni\PrimitiveDataTypesAndVariables\14.PrintASCIITable\bin\Debug\14.PrintASCIITable.exe
+D:\Documents\Softuni\PrimitiveDataTypesAndVariables\14.PrintASCIITable\bin\Debug\14.PrintASCIITable.pdb
+D:\Documents\Softuni\PrimitiveDataTypesAndVariables\14.PrintASCIITable\obj\Debug\14.PrintASCIITable.exe
+D:\Documents\Softuni\PrimitiveDataTypesAndVariables\14.PrintASCIITable\obj\Debug\14.PrintASCIITable.pdb

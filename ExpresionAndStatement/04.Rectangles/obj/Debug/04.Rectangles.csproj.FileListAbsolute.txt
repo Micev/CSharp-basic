@@ -1,0 +1,5 @@
+D:\Documents\Softuni\ExpresionAndStatement\04.Rectangles\bin\Debug\04.Rectangles.exe.config
+D:\Documents\Softuni\ExpresionAndStatement\04.Rectangles\bin\Debug\04.Rectangles.exe
+D:\Documents\Softuni\ExpresionAndStatement\04.Rectangles\bin\Debug\04.Rectangles.pdb
+D:\Documents\Softuni\ExpresionAndStatement\04.Rectangles\obj\Debug\04.Rectangles.exe
+D:\Documents\Softuni\ExpresionAndStatement\04.Rectangles\obj\Debug\04.Rectangles.pdb

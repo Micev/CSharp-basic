@@ -1,0 +1,6 @@
+D:\Documents\Softuni\ExpresionAndStatement\10.PointForCircleAndRectangle\bin\Debug\10.PointForCircleAndRectangle.exe.config
+D:\Documents\Softuni\ExpresionAndStatement\10.PointForCircleAndRectangle\bin\Debug\10.PointForCircleAndRectangle.exe
+D:\Documents\Softuni\ExpresionAndStatement\10.PointForCircleAndRectangle\bin\Debug\10.PointForCircleAndRectangle.pdb
+D:\Documents\Softuni\ExpresionAndStatement\10.PointForCircleAndRectangle\obj\Debug\10.PointForCircleAndRectangle.exe
+D:\Documents\Softuni\ExpresionAndStatement\10.PointForCircleAndRectangle\obj\Debug\10.PointForCircleAndRectangle.pdb
+D:\Documents\Softuni\ExpresionAndStatement\10.PointForCircleAndRectangle\obj\Debug\10.PointForCircleAndRectangle.csprojResolveAssemblyReference.cache

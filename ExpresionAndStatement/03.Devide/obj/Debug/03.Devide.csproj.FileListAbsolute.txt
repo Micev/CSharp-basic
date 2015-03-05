@@ -1,0 +1,5 @@
+D:\Documents\Softuni\ExpresionAndStatement\03.Devide\bin\Debug\03.Devide.exe.config
+D:\Documents\Softuni\ExpresionAndStatement\03.Devide\bin\Debug\03.Devide.exe
+D:\Documents\Softuni\ExpresionAndStatement\03.Devide\bin\Debug\03.Devide.pdb
+D:\Documents\Softuni\ExpresionAndStatement\03.Devide\obj\Debug\03.Devide.exe
+D:\Documents\Softuni\ExpresionAndStatement\03.Devide\obj\Debug\03.Devide.pdb

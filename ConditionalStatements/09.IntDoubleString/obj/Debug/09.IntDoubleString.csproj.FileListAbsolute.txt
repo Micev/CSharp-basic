@@ -1,0 +1,5 @@
+D:\Documents\Softuni\Conditional Statements\09.IntDoubleString\bin\Debug\09.IntDoubleString.exe.config
+D:\Documents\Softuni\Conditional Statements\09.IntDoubleString\bin\Debug\09.IntDoubleString.exe
+D:\Documents\Softuni\Conditional Statements\09.IntDoubleString\bin\Debug\09.IntDoubleString.pdb
+D:\Documents\Softuni\Conditional Statements\09.IntDoubleString\obj\Debug\09.IntDoubleString.exe
+D:\Documents\Softuni\Conditional Statements\09.IntDoubleString\obj\Debug\09.IntDoubleString.pdb

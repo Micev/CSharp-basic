@@ -1,0 +1,5 @@
+D:\Documents\Softuni\ConsoleInputOutput\06.QuadraticEquation\bin\Debug\06.QuadraticEquation.exe.config
+D:\Documents\Softuni\ConsoleInputOutput\06.QuadraticEquation\bin\Debug\06.QuadraticEquation.exe
+D:\Documents\Softuni\ConsoleInputOutput\06.QuadraticEquation\bin\Debug\06.QuadraticEquation.pdb
+D:\Documents\Softuni\ConsoleInputOutput\06.QuadraticEquation\obj\Debug\06.QuadraticEquation.exe
+D:\Documents\Softuni\ConsoleInputOutput\06.QuadraticEquation\obj\Debug\06.QuadraticEquation.pdb

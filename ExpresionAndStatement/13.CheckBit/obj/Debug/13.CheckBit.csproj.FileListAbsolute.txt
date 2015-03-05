@@ -1,0 +1,5 @@
+D:\Documents\Softuni\ExpresionAndStatement\13.CheckBit\bin\Debug\13.CheckBit.exe.config
+D:\Documents\Softuni\ExpresionAndStatement\13.CheckBit\bin\Debug\13.CheckBit.exe
+D:\Documents\Softuni\ExpresionAndStatement\13.CheckBit\bin\Debug\13.CheckBit.pdb
+D:\Documents\Softuni\ExpresionAndStatement\13.CheckBit\obj\Debug\13.CheckBit.exe
+D:\Documents\Softuni\ExpresionAndStatement\13.CheckBit\obj\Debug\13.CheckBit.pdb

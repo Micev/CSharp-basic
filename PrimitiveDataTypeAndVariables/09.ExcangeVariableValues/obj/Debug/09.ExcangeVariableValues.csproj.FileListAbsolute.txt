@@ -1,0 +1,5 @@
+D:\Documents\Softuni\PrimitiveDataTypesAndVariables\09.ExcangeVariableValues\bin\Debug\09.ExcangeVariableValues.exe.config
+D:\Documents\Softuni\PrimitiveDataTypesAndVariables\09.ExcangeVariableValues\bin\Debug\09.ExcangeVariableValues.exe
+D:\Documents\Softuni\PrimitiveDataTypesAndVariables\09.ExcangeVariableValues\bin\Debug\09.ExcangeVariableValues.pdb
+D:\Documents\Softuni\PrimitiveDataTypesAndVariables\09.ExcangeVariableValues\obj\Debug\09.ExcangeVariableValues.exe
+D:\Documents\Softuni\PrimitiveDataTypesAndVariables\09.ExcangeVariableValues\obj\Debug\09.ExcangeVariableValues.pdb

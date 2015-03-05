@@ -1,0 +1,5 @@
+D:\Documents\Softuni\ExpresionAndStatement\06.FourDigitNumber\bin\Debug\06.FourDigitNumber.exe.config
+D:\Documents\Softuni\ExpresionAndStatement\06.FourDigitNumber\bin\Debug\06.FourDigitNumber.exe
+D:\Documents\Softuni\ExpresionAndStatement\06.FourDigitNumber\bin\Debug\06.FourDigitNumber.pdb
+D:\Documents\Softuni\ExpresionAndStatement\06.FourDigitNumber\obj\Debug\06.FourDigitNumber.exe
+D:\Documents\Softuni\ExpresionAndStatement\06.FourDigitNumber\obj\Debug\06.FourDigitNumber.pdb

@@ -1,0 +1,5 @@
+D:\Documents\Softuni\PrimitiveDataTypesAndVariables\06.StringAndObjects\bin\Debug\06.StringAndObjects.exe.config
+D:\Documents\Softuni\PrimitiveDataTypesAndVariables\06.StringAndObjects\bin\Debug\06.StringAndObjects.exe
+D:\Documents\Softuni\PrimitiveDataTypesAndVariables\06.StringAndObjects\bin\Debug\06.StringAndObjects.pdb
+D:\Documents\Softuni\PrimitiveDataTypesAndVariables\06.StringAndObjects\obj\Debug\06.StringAndObjects.exe
+D:\Documents\Softuni\PrimitiveDataTypesAndVariables\06.StringAndObjects\obj\Debug\06.StringAndObjects.pdb

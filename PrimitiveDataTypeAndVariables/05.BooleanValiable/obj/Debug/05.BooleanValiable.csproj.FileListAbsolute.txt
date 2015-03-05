@@ -1,0 +1,5 @@
+D:\Documents\Softuni\PrimitiveDataTypesAndVariables\05.BooleanValiable\bin\Debug\05.BooleanValiable.exe.config
+D:\Documents\Softuni\PrimitiveDataTypesAndVariables\05.BooleanValiable\bin\Debug\05.BooleanValiable.exe
+D:\Documents\Softuni\PrimitiveDataTypesAndVariables\05.BooleanValiable\bin\Debug\05.BooleanValiable.pdb
+D:\Documents\Softuni\PrimitiveDataTypesAndVariables\05.BooleanValiable\obj\Debug\05.BooleanValiable.exe
+D:\Documents\Softuni\PrimitiveDataTypesAndVariables\05.BooleanValiable\obj\Debug\05.BooleanValiable.pdb

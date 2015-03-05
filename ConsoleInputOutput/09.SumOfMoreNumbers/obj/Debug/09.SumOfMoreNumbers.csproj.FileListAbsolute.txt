@@ -1,0 +1,5 @@
+D:\Documents\Softuni\ConsoleInputOutput\09.SumOfMoreNumbers\bin\Debug\09.SumOfMoreNumbers.exe.config
+D:\Documents\Softuni\ConsoleInputOutput\09.SumOfMoreNumbers\bin\Debug\09.SumOfMoreNumbers.exe
+D:\Documents\Softuni\ConsoleInputOutput\09.SumOfMoreNumbers\bin\Debug\09.SumOfMoreNumbers.pdb
+D:\Documents\Softuni\ConsoleInputOutput\09.SumOfMoreNumbers\obj\Debug\09.SumOfMoreNumbers.exe
+D:\Documents\Softuni\ConsoleInputOutput\09.SumOfMoreNumbers\obj\Debug\09.SumOfMoreNumbers.pdb

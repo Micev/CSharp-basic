@@ -1,0 +1,6 @@
+D:\Documents\Softuni\Conditional Statements\05.TheBiggestOfThreeNumbers\bin\Debug\05.TheBiggestOfThreeNumbers.exe.config
+D:\Documents\Softuni\Conditional Statements\05.TheBiggestOfThreeNumbers\bin\Debug\05.TheBiggestOfThreeNumbers.exe
+D:\Documents\Softuni\Conditional Statements\05.TheBiggestOfThreeNumbers\bin\Debug\05.TheBiggestOfThreeNumbers.pdb
+D:\Documents\Softuni\Conditional Statements\05.TheBiggestOfThreeNumbers\obj\Debug\05.TheBiggestOfThreeNumbers.csprojResolveAssemblyReference.cache
+D:\Documents\Softuni\Conditional Statements\05.TheBiggestOfThreeNumbers\obj\Debug\05.TheBiggestOfThreeNumbers.exe
+D:\Documents\Softuni\Conditional Statements\05.TheBiggestOfThreeNumbers\obj\Debug\05.TheBiggestOfThreeNumbers.pdb

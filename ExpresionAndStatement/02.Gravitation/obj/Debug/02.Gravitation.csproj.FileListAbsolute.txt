@@ -1,0 +1,5 @@
+D:\Documents\Softuni\ExpresionAndStatement\02.Gravitation\bin\Debug\02.Gravitation.exe.config
+D:\Documents\Softuni\ExpresionAndStatement\02.Gravitation\bin\Debug\02.Gravitation.exe
+D:\Documents\Softuni\ExpresionAndStatement\02.Gravitation\bin\Debug\02.Gravitation.pdb
+D:\Documents\Softuni\ExpresionAndStatement\02.Gravitation\obj\Debug\02.Gravitation.exe
+D:\Documents\Softuni\ExpresionAndStatement\02.Gravitation\obj\Debug\02.Gravitation.pdb

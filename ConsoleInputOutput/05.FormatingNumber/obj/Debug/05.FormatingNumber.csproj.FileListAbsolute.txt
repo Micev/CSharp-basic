@@ -1,0 +1,6 @@
+D:\Documents\Softuni\ConsoleInputOutput\05.FormatingNumber\bin\Debug\05.FormatingNumber.exe.config
+D:\Documents\Softuni\ConsoleInputOutput\05.FormatingNumber\bin\Debug\05.FormatingNumber.exe
+D:\Documents\Softuni\ConsoleInputOutput\05.FormatingNumber\bin\Debug\05.FormatingNumber.pdb
+D:\Documents\Softuni\ConsoleInputOutput\05.FormatingNumber\obj\Debug\05.FormatingNumber.exe
+D:\Documents\Softuni\ConsoleInputOutput\05.FormatingNumber\obj\Debug\05.FormatingNumber.pdb
+D:\Documents\Softuni\ConsoleInputOutput\05.FormatingNumber\obj\Debug\05.FormatingNumber.csprojResolveAssemblyReference.cache

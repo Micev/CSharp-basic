@@ -1,0 +1,5 @@
+D:\Documents\Softuni\ConsoleInputOutput\04.NumberComparer\bin\Debug\04.NumberComparer.exe.config
+D:\Documents\Softuni\ConsoleInputOutput\04.NumberComparer\bin\Debug\04.NumberComparer.exe
+D:\Documents\Softuni\ConsoleInputOutput\04.NumberComparer\bin\Debug\04.NumberComparer.pdb
+D:\Documents\Softuni\ConsoleInputOutput\04.NumberComparer\obj\Debug\04.NumberComparer.exe
+D:\Documents\Softuni\ConsoleInputOutput\04.NumberComparer\obj\Debug\04.NumberComparer.pdb

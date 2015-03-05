@@ -1,0 +1,5 @@
+D:\Documents\Softuni\ExpresionAndStatement\05.ThirdDigit\bin\Debug\05.ThirdDigit.exe.config
+D:\Documents\Softuni\ExpresionAndStatement\05.ThirdDigit\bin\Debug\05.ThirdDigit.exe
+D:\Documents\Softuni\ExpresionAndStatement\05.ThirdDigit\bin\Debug\05.ThirdDigit.pdb
+D:\Documents\Softuni\ExpresionAndStatement\05.ThirdDigit\obj\Debug\05.ThirdDigit.exe
+D:\Documents\Softuni\ExpresionAndStatement\05.ThirdDigit\obj\Debug\05.ThirdDigit.pdb

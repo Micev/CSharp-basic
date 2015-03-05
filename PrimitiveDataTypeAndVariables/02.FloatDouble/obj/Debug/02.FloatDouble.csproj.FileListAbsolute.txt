@@ -1,0 +1,9 @@
+D:\Documents\Softuni\PrimitiveDataTypesAndVariables\FloatDouble\bin\Debug\FloatDouble.exe.config
+D:\Documents\Softuni\PrimitiveDataTypesAndVariables\FloatDouble\obj\Debug\FloatDouble.exe
+D:\Documents\Softuni\PrimitiveDataTypesAndVariables\FloatDouble\obj\Debug\FloatDouble.pdb
+D:\Documents\Softuni\PrimitiveDataTypesAndVariables\02.FloatDouble\bin\Debug\FloatDouble.exe.config
+D:\Documents\Softuni\PrimitiveDataTypesAndVariables\02.FloatDouble\obj\Debug\FloatDouble.exe
+D:\Documents\Softuni\PrimitiveDataTypesAndVariables\02.FloatDouble\obj\Debug\FloatDouble.pdb
+D:\Documents\Softuni\PrimitiveDataTypesAndVariables\02.FloatDouble\bin\Debug\FloatDouble.exe
+D:\Documents\Softuni\PrimitiveDataTypesAndVariables\02.FloatDouble\bin\Debug\FloatDouble.pdb
+D:\Documents\Softuni\PrimitiveDataTypesAndVariables\02.FloatDouble\obj\Debug\02.FloatDouble.csprojResolveAssemblyReference.cache

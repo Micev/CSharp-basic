@@ -1,0 +1,6 @@
+D:\Documents\Softuni\ConsoleInputOutput\08.NumberForm1toN\bin\Debug\08.NumberForm1toN.exe.config
+D:\Documents\Softuni\ConsoleInputOutput\08.NumberForm1toN\bin\Debug\08.NumberForm1toN.exe
+D:\Documents\Softuni\ConsoleInputOutput\08.NumberForm1toN\bin\Debug\08.NumberForm1toN.pdb
+D:\Documents\Softuni\ConsoleInputOutput\08.NumberForm1toN\obj\Debug\08.NumberForm1toN.csprojResolveAssemblyReference.cache
+D:\Documents\Softuni\ConsoleInputOutput\08.NumberForm1toN\obj\Debug\08.NumberForm1toN.exe
+D:\Documents\Softuni\ConsoleInputOutput\08.NumberForm1toN\obj\Debug\08.NumberForm1toN.pdb

@@ -1,0 +1,6 @@
+D:\Documents\Softuni\ExpresionAndStatement\08.PrimeNumber\bin\Debug\08.PrimeNumber.exe.config
+D:\Documents\Softuni\ExpresionAndStatement\08.PrimeNumber\bin\Debug\08.PrimeNumber.exe
+D:\Documents\Softuni\ExpresionAndStatement\08.PrimeNumber\bin\Debug\08.PrimeNumber.pdb
+D:\Documents\Softuni\ExpresionAndStatement\08.PrimeNumber\obj\Debug\08.PrimeNumber.csprojResolveAssemblyReference.cache
+D:\Documents\Softuni\ExpresionAndStatement\08.PrimeNumber\obj\Debug\08.PrimeNumber.exe
+D:\Documents\Softuni\ExpresionAndStatement\08.PrimeNumber\obj\Debug\08.PrimeNumber.pdb

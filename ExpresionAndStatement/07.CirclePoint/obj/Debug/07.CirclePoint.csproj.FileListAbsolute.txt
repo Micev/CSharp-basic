@@ -1,0 +1,5 @@
+D:\Documents\Softuni\ExpresionAndStatement\07.CirclePoint\bin\Debug\07.CirclePoint.exe.config
+D:\Documents\Softuni\ExpresionAndStatement\07.CirclePoint\bin\Debug\07.CirclePoint.exe
+D:\Documents\Softuni\ExpresionAndStatement\07.CirclePoint\bin\Debug\07.CirclePoint.pdb
+D:\Documents\Softuni\ExpresionAndStatement\07.CirclePoint\obj\Debug\07.CirclePoint.exe
+D:\Documents\Softuni\ExpresionAndStatement\07.CirclePoint\obj\Debug\07.CirclePoint.pdb

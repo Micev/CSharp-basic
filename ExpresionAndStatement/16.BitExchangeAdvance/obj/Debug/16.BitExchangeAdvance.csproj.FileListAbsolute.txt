@@ -1,0 +1,6 @@
+D:\Documents\Softuni\ExpresionAndStatement\16.BitExchangeAdvance\bin\Debug\16.BitExchangeAdvance.exe.config
+D:\Documents\Softuni\ExpresionAndStatement\16.BitExchangeAdvance\bin\Debug\16.BitExchangeAdvance.exe
+D:\Documents\Softuni\ExpresionAndStatement\16.BitExchangeAdvance\bin\Debug\16.BitExchangeAdvance.pdb
+D:\Documents\Softuni\ExpresionAndStatement\16.BitExchangeAdvance\obj\Debug\16.BitExchangeAdvance.csprojResolveAssemblyReference.cache
+D:\Documents\Softuni\ExpresionAndStatement\16.BitExchangeAdvance\obj\Debug\16.BitExchangeAdvance.exe
+D:\Documents\Softuni\ExpresionAndStatement\16.BitExchangeAdvance\obj\Debug\16.BitExchangeAdvance.pdb

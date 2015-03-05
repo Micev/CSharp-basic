@@ -1,0 +1,5 @@
+D:\Documents\Softuni\ExpresionAndStatement\12.ExtractBit\bin\Debug\12.ExtractBit.exe.config
+D:\Documents\Softuni\ExpresionAndStatement\12.ExtractBit\bin\Debug\12.ExtractBit.exe
+D:\Documents\Softuni\ExpresionAndStatement\12.ExtractBit\bin\Debug\12.ExtractBit.pdb
+D:\Documents\Softuni\ExpresionAndStatement\12.ExtractBit\obj\Debug\12.ExtractBit.exe
+D:\Documents\Softuni\ExpresionAndStatement\12.ExtractBit\obj\Debug\12.ExtractBit.pdb

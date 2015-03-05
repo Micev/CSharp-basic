@@ -1,0 +1,5 @@
+D:\Documents\Softuni\ExpresionAndStatement\11.Bitwise\bin\Debug\11.Bitwise.exe.config
+D:\Documents\Softuni\ExpresionAndStatement\11.Bitwise\bin\Debug\11.Bitwise.exe
+D:\Documents\Softuni\ExpresionAndStatement\11.Bitwise\bin\Debug\11.Bitwise.pdb
+D:\Documents\Softuni\ExpresionAndStatement\11.Bitwise\obj\Debug\11.Bitwise.exe
+D:\Documents\Softuni\ExpresionAndStatement\11.Bitwise\obj\Debug\11.Bitwise.pdb

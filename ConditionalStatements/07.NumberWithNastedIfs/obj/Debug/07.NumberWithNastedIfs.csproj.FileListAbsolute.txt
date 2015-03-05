@@ -1,0 +1,6 @@
+D:\Documents\Softuni\Conditional Statements\07.NumberWithNastedIfs\bin\Debug\07.NumberWithNastedIfs.exe.config
+D:\Documents\Softuni\Conditional Statements\07.NumberWithNastedIfs\obj\Debug\07.NumberWithNastedIfs.csprojResolveAssemblyReference.cache
+D:\Documents\Softuni\Conditional Statements\07.NumberWithNastedIfs\bin\Debug\07.NumberWithNastedIfs.exe
+D:\Documents\Softuni\Conditional Statements\07.NumberWithNastedIfs\bin\Debug\07.NumberWithNastedIfs.pdb
+D:\Documents\Softuni\Conditional Statements\07.NumberWithNastedIfs\obj\Debug\07.NumberWithNastedIfs.exe
+D:\Documents\Softuni\Conditional Statements\07.NumberWithNastedIfs\obj\Debug\07.NumberWithNastedIfs.pdb
