@@ -1,0 +1,9 @@
+D:\Documents\Softuni\Intorduction to Programming\PrintMyName\bin\Debug\PrintMyName.exe.config
+D:\Documents\Softuni\Intorduction to Programming\PrintMyName\obj\Debug\PrintMyName.exe
+D:\Documents\Softuni\Intorduction to Programming\PrintMyName\obj\Debug\PrintMyName.pdb
+D:\Documents\Softuni\Intorduction to Programming\05.PrintMyName\bin\Debug\PrintMyName.exe.config
+D:\Documents\Softuni\Intorduction to Programming\05.PrintMyName\obj\Debug\PrintMyName.exe
+D:\Documents\Softuni\Intorduction to Programming\05.PrintMyName\obj\Debug\PrintMyName.pdb
+D:\Documents\Softuni\Intorduction to Programming\05.PrintMyName\bin\Debug\PrintMyName.exe
+D:\Documents\Softuni\Intorduction to Programming\05.PrintMyName\bin\Debug\PrintMyName.pdb
+D:\Documents\Softuni\Intorduction to Programming\05.PrintMyName\obj\Debug\05.PrintMyName.csprojResolveAssemblyReference.cache

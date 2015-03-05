@@ -1,0 +1,5 @@
+D:\Documents\Softuni\Intorduction to Programming\07.PrintMyFullName\bin\Debug\07.PrintMyFullName.exe.config
+D:\Documents\Softuni\Intorduction to Programming\07.PrintMyFullName\bin\Debug\07.PrintMyFullName.exe
+D:\Documents\Softuni\Intorduction to Programming\07.PrintMyFullName\bin\Debug\07.PrintMyFullName.pdb
+D:\Documents\Softuni\Intorduction to Programming\07.PrintMyFullName\obj\Debug\07.PrintMyFullName.exe
+D:\Documents\Softuni\Intorduction to Programming\07.PrintMyFullName\obj\Debug\07.PrintMyFullName.pdb

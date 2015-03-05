@@ -1,0 +1,5 @@
+D:\Documents\Softuni\Intorduction to Programming\16.PrintLongSequence\bin\Debug\16.PrintLongSequence.exe.config
+D:\Documents\Softuni\Intorduction to Programming\16.PrintLongSequence\bin\Debug\16.PrintLongSequence.exe
+D:\Documents\Softuni\Intorduction to Programming\16.PrintLongSequence\bin\Debug\16.PrintLongSequence.pdb
+D:\Documents\Softuni\Intorduction to Programming\16.PrintLongSequence\obj\Debug\16.PrintLongSequence.exe
+D:\Documents\Softuni\Intorduction to Programming\16.PrintLongSequence\obj\Debug\16.PrintLongSequence.pdb

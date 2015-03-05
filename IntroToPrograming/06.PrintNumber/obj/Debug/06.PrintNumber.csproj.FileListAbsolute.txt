@@ -1,0 +1,6 @@
+D:\Documents\Softuni\Intorduction to Programming\PrintNumber\bin\Debug\PrintNumber.exe.config
+D:\Documents\Softuni\Intorduction to Programming\PrintNumber\obj\Debug\PrintNumber.exe
+D:\Documents\Softuni\Intorduction to Programming\PrintNumber\obj\Debug\PrintNumber.pdb
+D:\Documents\Softuni\Intorduction to Programming\06.PrintNumber\bin\Debug\PrintNumber.exe.config
+D:\Documents\Softuni\Intorduction to Programming\06.PrintNumber\obj\Debug\PrintNumber.exe
+D:\Documents\Softuni\Intorduction to Programming\06.PrintNumber\obj\Debug\PrintNumber.pdb

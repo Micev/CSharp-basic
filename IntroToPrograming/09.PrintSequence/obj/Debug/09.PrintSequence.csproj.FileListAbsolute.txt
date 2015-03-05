@@ -1,0 +1,5 @@
+D:\Documents\Softuni\Intorduction to Programming\09.PrintSequence\bin\Debug\09.PrintSequence.exe.config
+D:\Documents\Softuni\Intorduction to Programming\09.PrintSequence\bin\Debug\09.PrintSequence.exe
+D:\Documents\Softuni\Intorduction to Programming\09.PrintSequence\bin\Debug\09.PrintSequence.pdb
+D:\Documents\Softuni\Intorduction to Programming\09.PrintSequence\obj\Debug\09.PrintSequence.exe
+D:\Documents\Softuni\Intorduction to Programming\09.PrintSequence\obj\Debug\09.PrintSequence.pdb

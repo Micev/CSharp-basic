@@ -1,0 +1,5 @@
+D:\Documents\Softuni\Intorduction to Programming\08.SquareRoot\bin\Debug\08.SquareRoot.exe.config
+D:\Documents\Softuni\Intorduction to Programming\08.SquareRoot\bin\Debug\08.SquareRoot.exe
+D:\Documents\Softuni\Intorduction to Programming\08.SquareRoot\bin\Debug\08.SquareRoot.pdb
+D:\Documents\Softuni\Intorduction to Programming\08.SquareRoot\obj\Debug\08.SquareRoot.exe
+D:\Documents\Softuni\Intorduction to Programming\08.SquareRoot\obj\Debug\08.SquareRoot.pdb

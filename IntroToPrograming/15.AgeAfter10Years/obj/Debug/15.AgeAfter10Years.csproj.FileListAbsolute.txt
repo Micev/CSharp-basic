@@ -1,0 +1,5 @@
+D:\Documents\Softuni\Intorduction to Programming\15.AgeAfter10Years\bin\Debug\15.AgeAfter10Years.exe.config
+D:\Documents\Softuni\Intorduction to Programming\15.AgeAfter10Years\bin\Debug\15.AgeAfter10Years.exe
+D:\Documents\Softuni\Intorduction to Programming\15.AgeAfter10Years\bin\Debug\15.AgeAfter10Years.pdb
+D:\Documents\Softuni\Intorduction to Programming\15.AgeAfter10Years\obj\Debug\15.AgeAfter10Years.exe
+D:\Documents\Softuni\Intorduction to Programming\15.AgeAfter10Years\obj\Debug\15.AgeAfter10Years.pdb
