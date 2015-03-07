@@ -40,13 +40,14 @@
             this.C3 = new System.Windows.Forms.Button();
             this.fileToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.newGameToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.resetToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.exitToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.aboutToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.menuStrip1 = new System.Windows.Forms.MenuStrip();
             this.player1 = new System.Windows.Forms.Label();
             this.Draw_label = new System.Windows.Forms.Label();
             this.player2 = new System.Windows.Forms.Label();
-            this.label4 = new System.Windows.Forms.Label();
+            this.draw_counter = new System.Windows.Forms.Label();
             this.xWin_counter = new System.Windows.Forms.Label();
             this.oWin_counter = new System.Windows.Forms.Label();
             this.menuStrip1.SuspendLayout();
@@ -54,12 +55,13 @@
             // 
             // A1
             // 
+            this.A1.BackColor = System.Drawing.Color.Transparent;
             this.A1.Font = new System.Drawing.Font("Forte", 36F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.A1.Location = new System.Drawing.Point(12, 27);
             this.A1.Name = "A1";
             this.A1.Size = new System.Drawing.Size(75, 75);
             this.A1.TabIndex = 0;
-            this.A1.UseVisualStyleBackColor = true;
+            this.A1.UseVisualStyleBackColor = false;
             this.A1.Click += new System.EventHandler(this.Button_Click);
             this.A1.MouseEnter += new System.EventHandler(this.button_enter);
             this.A1.MouseLeave += new System.EventHandler(this.button_leave);
@@ -164,6 +166,7 @@
             // 
             this.fileToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.newGameToolStripMenuItem,
+            this.resetToolStripMenuItem,
             this.exitToolStripMenuItem});
             this.fileToolStripMenuItem.ForeColor = System.Drawing.SystemColors.WindowText;
             this.fileToolStripMenuItem.Name = "fileToolStripMenuItem";
@@ -173,18 +176,30 @@
             // newGameToolStripMenuItem
             // 
             this.newGameToolStripMenuItem.BackColor = System.Drawing.Color.SteelBlue;
+            this.newGameToolStripMenuItem.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("newGameToolStripMenuItem.BackgroundImage")));
             this.newGameToolStripMenuItem.ForeColor = System.Drawing.SystemColors.WindowText;
             this.newGameToolStripMenuItem.Name = "newGameToolStripMenuItem";
-            this.newGameToolStripMenuItem.Size = new System.Drawing.Size(132, 22);
+            this.newGameToolStripMenuItem.Size = new System.Drawing.Size(142, 22);
             this.newGameToolStripMenuItem.Text = "New Game";
             this.newGameToolStripMenuItem.Click += new System.EventHandler(this.newGameToolStripMenuItem_Click);
+            // 
+            // resetToolStripMenuItem
+            // 
+            this.resetToolStripMenuItem.BackColor = System.Drawing.Color.SteelBlue;
+            this.resetToolStripMenuItem.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("resetToolStripMenuItem.BackgroundImage")));
+            this.resetToolStripMenuItem.ForeColor = System.Drawing.SystemColors.WindowText;
+            this.resetToolStripMenuItem.Name = "resetToolStripMenuItem";
+            this.resetToolStripMenuItem.Size = new System.Drawing.Size(142, 22);
+            this.resetToolStripMenuItem.Text = "Reset Results";
+            this.resetToolStripMenuItem.Click += new System.EventHandler(this.resetToolStripMenuItem_Click);
             // 
             // exitToolStripMenuItem
             // 
             this.exitToolStripMenuItem.BackColor = System.Drawing.Color.SteelBlue;
+            this.exitToolStripMenuItem.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("exitToolStripMenuItem.BackgroundImage")));
             this.exitToolStripMenuItem.ForeColor = System.Drawing.SystemColors.WindowText;
             this.exitToolStripMenuItem.Name = "exitToolStripMenuItem";
-            this.exitToolStripMenuItem.Size = new System.Drawing.Size(132, 22);
+            this.exitToolStripMenuItem.Size = new System.Drawing.Size(142, 22);
             this.exitToolStripMenuItem.Text = "Exit";
             this.exitToolStripMenuItem.Click += new System.EventHandler(this.exitToolStripMenuItem_Click);
             // 
@@ -211,60 +226,66 @@
             // player1
             // 
             this.player1.AutoSize = true;
-            this.player1.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.player1.Location = new System.Drawing.Point(27, 277);
+            this.player1.BackColor = System.Drawing.Color.Transparent;
+            this.player1.Font = new System.Drawing.Font("Chiller", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.player1.Location = new System.Drawing.Point(14, 270);
             this.player1.Name = "player1";
-            this.player1.Size = new System.Drawing.Size(45, 16);
+            this.player1.Size = new System.Drawing.Size(70, 27);
             this.player1.TabIndex = 10;
-            this.player1.Text = "X wins";
+            this.player1.Text = "Player 1";
             // 
             // Draw_label
             // 
             this.Draw_label.AutoSize = true;
-            this.Draw_label.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.Draw_label.Location = new System.Drawing.Point(112, 277);
+            this.Draw_label.BackColor = System.Drawing.Color.Transparent;
+            this.Draw_label.Font = new System.Drawing.Font("Chiller", 18F);
+            this.Draw_label.Location = new System.Drawing.Point(109, 270);
             this.Draw_label.Name = "Draw_label";
-            this.Draw_label.Size = new System.Drawing.Size(39, 16);
+            this.Draw_label.Size = new System.Drawing.Size(44, 27);
             this.Draw_label.TabIndex = 11;
             this.Draw_label.Text = "Draw";
             // 
             // player2
             // 
             this.player2.AutoSize = true;
-            this.player2.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.player2.Location = new System.Drawing.Point(191, 277);
+            this.player2.BackColor = System.Drawing.Color.Transparent;
+            this.player2.Font = new System.Drawing.Font("Chiller", 18F);
+            this.player2.Location = new System.Drawing.Point(177, 270);
             this.player2.Name = "player2";
-            this.player2.Size = new System.Drawing.Size(47, 16);
+            this.player2.Size = new System.Drawing.Size(72, 27);
             this.player2.TabIndex = 12;
-            this.player2.Text = "O wins";
+            this.player2.Text = "Player 2";
             // 
-            // label4
+            // draw_counter
             // 
-            this.label4.AutoSize = true;
-            this.label4.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.label4.Location = new System.Drawing.Point(122, 300);
-            this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(15, 16);
-            this.label4.TabIndex = 13;
-            this.label4.Text = "0";
+            this.draw_counter.AutoSize = true;
+            this.draw_counter.BackColor = System.Drawing.Color.Transparent;
+            this.draw_counter.Font = new System.Drawing.Font("Chiller", 14.25F, System.Drawing.FontStyle.Bold);
+            this.draw_counter.Location = new System.Drawing.Point(121, 293);
+            this.draw_counter.Name = "draw_counter";
+            this.draw_counter.Size = new System.Drawing.Size(20, 23);
+            this.draw_counter.TabIndex = 13;
+            this.draw_counter.Text = "0";
             // 
             // xWin_counter
             // 
             this.xWin_counter.AutoSize = true;
-            this.xWin_counter.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.xWin_counter.Location = new System.Drawing.Point(40, 300);
+            this.xWin_counter.BackColor = System.Drawing.Color.Transparent;
+            this.xWin_counter.Font = new System.Drawing.Font("Chiller", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.xWin_counter.Location = new System.Drawing.Point(39, 293);
             this.xWin_counter.Name = "xWin_counter";
-            this.xWin_counter.Size = new System.Drawing.Size(15, 16);
+            this.xWin_counter.Size = new System.Drawing.Size(20, 23);
             this.xWin_counter.TabIndex = 14;
             this.xWin_counter.Text = "0";
             // 
             // oWin_counter
             // 
             this.oWin_counter.AutoSize = true;
-            this.oWin_counter.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.oWin_counter.Location = new System.Drawing.Point(204, 300);
+            this.oWin_counter.BackColor = System.Drawing.Color.Transparent;
+            this.oWin_counter.Font = new System.Drawing.Font("Chiller", 14.25F, System.Drawing.FontStyle.Bold);
+            this.oWin_counter.Location = new System.Drawing.Point(203, 293);
             this.oWin_counter.Name = "oWin_counter";
-            this.oWin_counter.Size = new System.Drawing.Size(15, 16);
+            this.oWin_counter.Size = new System.Drawing.Size(20, 23);
             this.oWin_counter.TabIndex = 15;
             this.oWin_counter.Text = "0";
             // 
@@ -276,10 +297,11 @@
             this.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
             this.AutoValidate = System.Windows.Forms.AutoValidate.Disable;
             this.BackColor = System.Drawing.Color.SteelBlue;
+            this.BackgroundImage = global::TicTacToe.Properties.Resources.Untitled;
             this.ClientSize = new System.Drawing.Size(263, 323);
             this.Controls.Add(this.oWin_counter);
             this.Controls.Add(this.xWin_counter);
-            this.Controls.Add(this.label4);
+            this.Controls.Add(this.draw_counter);
             this.Controls.Add(this.player2);
             this.Controls.Add(this.Draw_label);
             this.Controls.Add(this.player1);
@@ -296,11 +318,13 @@
             this.Cursor = System.Windows.Forms.Cursors.Default;
             this.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
+            this.ImeMode = System.Windows.Forms.ImeMode.Off;
             this.MainMenuStrip = this.menuStrip1;
             this.Name = "Form1";
             this.RightToLeft = System.Windows.Forms.RightToLeft.No;
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Tic Tac Toe";
+            this.Load += new System.EventHandler(this.Form1_Load);
             this.menuStrip1.ResumeLayout(false);
             this.menuStrip1.PerformLayout();
             this.ResumeLayout(false);
@@ -310,15 +334,15 @@
 
         #endregion
 
-        private System.Windows.Forms.Button A1;
-        private System.Windows.Forms.Button A2;
-        private System.Windows.Forms.Button A3;
-        private System.Windows.Forms.Button B1;
-        private System.Windows.Forms.Button B2;
-        private System.Windows.Forms.Button B3;
-        private System.Windows.Forms.Button C1;
-        private System.Windows.Forms.Button C2;
-        private System.Windows.Forms.Button C3;
+        public System.Windows.Forms.Button A1;
+        public System.Windows.Forms.Button A2;
+        public System.Windows.Forms.Button A3;
+        public System.Windows.Forms.Button B1;
+        public System.Windows.Forms.Button B2;
+        public System.Windows.Forms.Button B3;
+        public System.Windows.Forms.Button C1;
+        public System.Windows.Forms.Button C2;
+        public System.Windows.Forms.Button C3;
         private System.Windows.Forms.ToolStripMenuItem fileToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem newGameToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem exitToolStripMenuItem;
@@ -327,9 +351,10 @@
         private System.Windows.Forms.Label player1;
         private System.Windows.Forms.Label Draw_label;
         private System.Windows.Forms.Label player2;
-        private System.Windows.Forms.Label label4;
+        private System.Windows.Forms.Label draw_counter;
         private System.Windows.Forms.Label xWin_counter;
         private System.Windows.Forms.Label oWin_counter;
+        private System.Windows.Forms.ToolStripMenuItem resetToolStripMenuItem;
     }
 }
 
